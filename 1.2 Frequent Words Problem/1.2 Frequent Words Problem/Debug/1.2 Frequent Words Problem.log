@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\natali\documents\visual studio 2015\projects\1.2 frequent words problem\1.2 frequent words problem\main.cpp(13): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\1.2 frequent words problem\1.2 frequent words problem\main.cpp(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\1.2 frequent words problem\1.2 frequent words problem\main.cpp(28): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\1.2 frequent words problem\1.2 frequent words problem\main.cpp(33): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\1.2 frequent words problem\1.2 frequent words problem\main.cpp(39): warning C4018: <: несоответствие типов со знаком и без знака
+  1.2 Frequent Words Problem.vcxproj -> c:\users\natali\documents\visual studio 2015\Projects\1.2 Frequent Words Problem\Debug\1.2 Frequent Words Problem.exe
+  1.2 Frequent Words Problem.vcxproj -> c:\users\natali\documents\visual studio 2015\Projects\1.2 Frequent Words Problem\Debug\1.2 Frequent Words Problem.pdb (Full PDB)
