@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  2.2 Peptide Encoding Problem.cpp
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.2 peptide encoding problem\2.2 peptide encoding problem\2.2 peptide encoding problem.cpp(35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  2.2 Peptide Encoding Problem.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.2 Peptide Encoding Problem\x64\Debug\2.2 Peptide Encoding Problem.exe
+  2.2 Peptide Encoding Problem.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.2 Peptide Encoding Problem\x64\Debug\2.2 Peptide Encoding Problem.pdb (Full PDB)
