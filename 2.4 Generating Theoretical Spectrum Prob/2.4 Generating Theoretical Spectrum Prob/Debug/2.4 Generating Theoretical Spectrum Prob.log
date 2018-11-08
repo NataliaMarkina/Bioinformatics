@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  2.4 Generating Theoretical Spectrum Prob.cpp
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob.cpp(34): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob.cpp(38): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob\2.4 generating theoretical spectrum prob.cpp(28): warning C4101: mass: неиспользованная локальная переменная
+  2.4 Generating Theoretical Spectrum Prob.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.4 Generating Theoretical Spectrum Prob\Debug\2.4 Generating Theoretical Spectrum Prob.exe
+  2.4 Generating Theoretical Spectrum Prob.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.4 Generating Theoretical Spectrum Prob\Debug\2.4 Generating Theoretical Spectrum Prob.pdb (Full PDB)
