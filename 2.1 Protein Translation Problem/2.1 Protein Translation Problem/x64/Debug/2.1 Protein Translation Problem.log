@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  2.1 Protein Translation Problem.cpp
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.1 protein translation problem\2.1 protein translation problem\2.1 protein translation problem.cpp(91): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.1 protein translation problem\2.1 protein translation problem\2.1 protein translation problem.cpp(92): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\natali\documents\visual studio 2015\projects\bioinformatics\2.1 protein translation problem\2.1 protein translation problem\2.1 protein translation problem.cpp(93): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  2.1 Protein Translation Problem.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.1 Protein Translation Problem\x64\Debug\2.1 Protein Translation Problem.exe
+  2.1 Protein Translation Problem.vcxproj -> C:\Users\natali\Documents\Visual Studio 2015\Projects\Bioinformatics\2.1 Protein Translation Problem\x64\Debug\2.1 Protein Translation Problem.pdb (Full PDB)
