@@ -1,0 +1,6 @@
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\bin\Debug\3.3  Leaderboard Cyclopeptide Sequencing.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\obj\Debug\3.3  Leaderboard Cyclopeptide Sequencing.csprojResolveAssemblyReference.cache
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\bin\Debug\3.3  Leaderboard Cyclopeptide Sequencing.exe
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\bin\Debug\3.3  Leaderboard Cyclopeptide Sequencing.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\obj\Debug\3.3  Leaderboard Cyclopeptide Sequencing.exe
+c:\users\natasha\documents\visual studio 2015\Projects\3.3  Leaderboard Cyclopeptide Sequencing\3.3  Leaderboard Cyclopeptide Sequencing\obj\Debug\3.3  Leaderboard Cyclopeptide Sequencing.pdb
