@@ -1,0 +1,6 @@
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\bin\Debug\3.2  Cyclopeptide Scoring Problem.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\bin\Debug\3.2  Cyclopeptide Scoring Problem.exe
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\bin\Debug\3.2  Cyclopeptide Scoring Problem.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\obj\Debug\3.2  Cyclopeptide Scoring Problem.csprojResolveAssemblyReference.cache
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\obj\Debug\3.2  Cyclopeptide Scoring Problem.exe
+c:\users\natasha\documents\visual studio 2015\Projects\3.2  Cyclopeptide Scoring Problem\3.2  Cyclopeptide Scoring Problem\obj\Debug\3.2  Cyclopeptide Scoring Problem.pdb
