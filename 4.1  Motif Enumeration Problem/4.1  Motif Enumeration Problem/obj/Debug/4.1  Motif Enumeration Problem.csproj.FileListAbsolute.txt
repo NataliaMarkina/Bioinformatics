@@ -1,0 +1,6 @@
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\bin\Debug\4.1  Motif Enumeration Problem.exe.config
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\bin\Debug\4.1  Motif Enumeration Problem.exe
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\bin\Debug\4.1  Motif Enumeration Problem.pdb
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\obj\Debug\4.1  Motif Enumeration Problem.csprojResolveAssemblyReference.cache
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\obj\Debug\4.1  Motif Enumeration Problem.exe
+c:\users\natasha\documents\visual studio 2015\Projects\4.1  Motif Enumeration Problem\4.1  Motif Enumeration Problem\obj\Debug\4.1  Motif Enumeration Problem.pdb
